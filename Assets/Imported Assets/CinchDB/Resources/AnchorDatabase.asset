@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8056a78d48e59946a28f844c1487a99, type: 3}
+  m_Name: AnchorDatabase
+  m_EditorClassIdentifier: 
+  key: 
+  visibleColumns: 5
+  ColumnHeaders:
+  - Anchor ID
+  - Name
+  - Description
+  - Date
+  - Data
+  - Column 6
+  - Column 7
+  - Column 8
+  - Column 9
+  - Column 10
